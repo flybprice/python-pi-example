@@ -1,5 +1,3 @@
 print("Second Attempt with correct spelling")
 print('Another line')
-print("and now the other way")
-#again to see
-#and again
+print("and now")

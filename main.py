@@ -2,6 +2,4 @@ print("Second Attempt with correct spelling")
 print('Another line')
 print("and now")
 #lfhsdifhosidfosifjlsdifj
-#My latest cccsdsdsdscccccc
-#FINALLY???
-3333333333333
+#
